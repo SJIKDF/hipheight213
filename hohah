@@ -1,0 +1,7 @@
+[
+  { "maxPlayers": 10, "url": "https://discord.com/api/webhooks/1430595830028570736/vm0YenBrLSDN1v1jama7v2oPlk5dEJ604YOCIIsy3sJbsa6PR0ZMrr_-d_PBXDD_877N" },
+  { "maxPlayers": 30, "url": "https://discord.com/api/webhooks/1427752979922157618/1dORKoFMGTtUONkD3t7EjRkGN1BktfzL6xHufhNOZy7UtM6pgs0gzLzNVswwYveKeKt2" },
+  { "maxPlayers": 50, "url": "https://discord.com/api/webhooks/1427753068576903380/Aua649NO02xhg5JfW9S33V88j7QfPtxPMHMKUVSWrRZtPwSjROHYLv__gK_j9bYwft47" },
+  { "maxPlayers": 150, "url": "https://discord.com/api/webhooks/1427753143168401408/omfUU8KTBZ37JhdCiE4Xjl6PXnmDd5xe-NSGh1P8YywzcePse3fWIBIdmQyu6Oe1WYYM" },
+  { "maxPlayers": 10000, "url": "https://discord.com/api/webhooks/1427753214022778922/Rw_TpKBBXsRS7gI460uMZF9qRQdtnBXH5XtjVYgB6-tMQYnTLhuq3XF3O46382Ixt4Gp" }
+]
